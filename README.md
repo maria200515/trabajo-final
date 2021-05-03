@@ -125,9 +125,8 @@ Los perros son seres sociales y viven en manadas con otros perros o con <em> hum
             
             <tbody>
 <tr>
-    <td>Grupo 1. </td>
-    
-    <td> Perros tipo pastor y boyeros</td>
+          <td>Grupo 1. </td>
+          <td> Perros tipo pastor y boyeros</td>
  </tr>
  
  <tr>
