@@ -117,9 +117,7 @@ Los perros son seres sociales y viven en manadas con otros perros o con <em> hum
                 <tr>
                     <th>GRUPO</th>
                     <th>TIPO</th>
-                    
-                  
-                </tr>
+               </tr>
             </thead>
             <tbody>
 <tr>
